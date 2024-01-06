@@ -1,4 +1,5 @@
-# Frontend Projects
+<span style="color:blue"># Frontend Projects</span>
+
 
 Here are the links to some of my frontend projects along with the tech stacks used in each project:
 
