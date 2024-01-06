@@ -5,7 +5,7 @@ Here are the links to some of my frontend projects along with the tech stacks us
 
 1. [React Portfolio ](https://github.com/edward232232/edward232232.github.io)
    - This project is a comprehensive showcase of my skills in React, Javascript/ TypeScript, Tailswind CSS, and HTML. It is a demonstration of my proficiency in these technologies
-   - <Tech Stack>: React, Javascript/TypeScript, Tailswind css CSS, HTML/CSS, node
+   - **Tech Stack**: React, Javascript/TypeScript, Tailswind css CSS, HTML/CSS, node
 
 2. [React Monster game](https://github.com/edward232232/monsters)
    - This simple project is a showcase of using React with TypeScript. It demonstrates the ability to call an external API, specifically the Robohash API, to retrieve images 
