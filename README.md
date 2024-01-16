@@ -3,7 +3,7 @@
 
 Here are the links to some of my frontend projects along with the tech stacks used in each project:
 
-1. [React Portfolio ](https://github.com/edward232232/edward232232.github.io)
+1. [React, Javascript/TypeScript Portfolio ](https://github.com/edward232232/edward232232.github.io)
    - This project is a comprehensive showcase of my skills in React, Javascript/ TypeScript, Tailswind CSS, and HTML. It is a demonstration of my proficiency in these technologies
 
       + **Tech Stack:** React, Javascript/TypeScript, Tailswind CSS
